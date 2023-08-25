@@ -26,5 +26,3 @@ export const connectToDB = async () => {
     console.log(error);
   }
 };
-
-// mongodb+srv://ruhela:ruhela@cluster0.udzoyq6.mongodb.net/?retryWrites=true&w=majority
